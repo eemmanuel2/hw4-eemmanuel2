@@ -1,0 +1,33 @@
+
+
+h1 {
+    
+    
+    font-size: 46px;
+    
+}
+
+body {
+
+    background-color: rgb(222, 207, 236);
+    color: rgb(94, 37, 37);
+    font-family: Arial;
+
+}
+
+ol {
+
+
+
+}
+
+li {
+
+font-size: 36px;
+
+
+}
+
+li:nth-child(1){
+    color: green;
+}
